@@ -345,6 +345,24 @@ body {
     max-width: 100%;
 }
 
+.fdre-section {
+    min-height: 4640px;
+    width: 100%;
+    padding-bottom: 120px;
+    background: url("images/middle-cover.jpg") no-repeat;
+    background-size: 100% auto;
+}
+
+.fdre-section .fdre-cover {
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+
+.fdre-section .fdre-cover img {
+    max-width: 100%;
+}
+
 /*------------------------------------------------------------
 ## lineup-artists-headline
 ------------------------------------------------------------*/
